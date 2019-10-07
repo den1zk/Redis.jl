@@ -1,0 +1,4 @@
+name = "Redis"
+uuid = "56cc56ef-33c0-4257-b87b-d162a881a166"
+authors = ["Deniz Kırlıdoğ <deniz.kirlidog@matriksdata.com>"]
+version = "0.1.0"
